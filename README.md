@@ -1,488 +1,116 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Abhiram Rapothula</h1>
+<h3 align="center">SOC Analyst | Threat Hunter | Incident Response Enthusiast</h3>
 
-# ABHIRAM RAPOTHULA
-
-### Cybersecurity Graduate • SOC Analyst • Blue Team Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Threat+Hunting;Incident+Response;Network+Security;Vulnerability+Assessment;Phishing+Analysis;Always+Learning+Something+New"/>
-
-<p>
-
-<a href="https://github.com/abhiramyadav03">
-<img src="https://img.shields.io/badge/GitHub-abhiramyadav03-181717?style=flat-square&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rapothulaabhiram/">
-<img src="https://img.shields.io/badge/LinkedIn-Abhiram%20Rapothula-0A66C2?style=flat-square&logo=linkedin"/>
-</a>
-
-<a href="https://tryhackme.com/p/rapothula1907">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme"/>
-</a>
-
+<p align="center">
+Detect • Analyze • Respond • Secure
 </p>
 
-</div>
+---
+
+### 🔗 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-abhiramyadav03-181717?style=for-the-badge&logo=github)](https://github.com/abhiramyadav03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rapothulaabhiram-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rapothulaabhiram)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-rapothula1907-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/rapothula1907)
+[![Email](https://img.shields.io/badge/Email-rapothulaabhiram@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapothulaabhiram@gmail.com)
 
 ---
 
-# 👨 About Me
+### 👤 About Me
 
-Cybersecurity graduate passionate about Security Operations, Threat Detection, Incident Response and Blue Team operations.
+Cybersecurity graduate passionate about building secure systems and analyzing threats. I love working in SOC environments, investigating incidents, and turning data into actionable insights.
 
-I enjoy building practical cybersecurity labs that simulate real-world attack and defense scenarios using industry-standard tools.
-
-Currently seeking opportunities as a **SOC Analyst** where I can continue learning while contributing to security monitoring, investigation and incident response.
+- 🎓 B.Tech CSE (Cybersecurity) – Swami Vivekananda Institute of Technology
+- 📅 Graduated in 2025
+- 💼 Open to Work – SOC Analyst / Cybersecurity Analyst
+- 📍 Hyderabad, Telangana, India 🇮🇳
 
 ---
 
-# 🎯 Current Focus
+### 🎯 Current Focus
 
-```text
-✓ Security Operations Center (SOC)
+- 🔍 Mastering SIEM tools (Splunk, Microsoft Sentinel)
+- 🕵️ Threat Hunting & Detection Engineering
+- 🚨 Incident Response & Forensics
+- 🛡️ Building SOC / Blue Team Labs
+- 🤖 AI & Machine Learning in Cybersecurity
 
-✓ Threat Hunting
+---
 
-✓ Incident Response
+### 🛠️ Cybersecurity Toolkit
 
-✓ Vulnerability Assessment
+**SOC & SIEM**
+`Splunk` `QRadar` `Microsoft Sentinel` `Wazuh`
 
-✓ Network Security
+**Network & Analysis**
+`Wireshark` `Nmap` `TCP/IP` `Netcat`
 
-✓ Detection Engineering
+**Vulnerability Assessment**
+`Nessus` `OpenVAS` `Nikto` `Burp Suite`
 
-✓ AI in Cybersecurity
+**Exploitation & Testing**
+`Metasploit` `Nmap Scripts` `SQLMap` `John the Ripper`
+
+**Other Tools**
+`VirusTotal` `MXToolbox` `Kali Linux` `VMware`
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tag |
+|---|---|---|
+| 🔍 **Network Recon with Nmap** | Host discovery, port scanning and service enumeration using Nmap. | `Reconnaissance` |
+| ✉️ **Phishing Email Analysis Lab** | Analyze phishing emails using VirusTotal, SPF, DKIM, DMARC & MXToolbox. | `Phishing Analysis` |
+| 🛡️ **Vulnerability Assessment** | Identify, analyze and prioritize vulnerabilities using Nessus Essentials. | `Vulnerability Assessment` |
+| 🧱 **Firewall Configuration Lab** | Configure and test firewall rules on Windows Defender Firewall & UFW. | `Network Security` |
+| 📡 **Wireshark Network Traffic Analysis** | Capture and analyze DNS, TCP, TLS, ICMP, ARP and QUIC traffic. | `Packet Analysis` |
+| 🧠 **AI-Based Phishing URL Detection** | Machine learning model (Random Forest + TF-IDF) to detect phishing URLs. | `AI / ML Security` |
+
+> 🔗 Check out my repositories for detailed documentation and labs!
+
+---
+
+### 🎓 Certifications
+
+- **Cisco Networking Academy** – Ethical Hacker *(21 Apr 2026)*
+- **Cisco Networking Academy** – Junior Cybersecurity Analyst Career Path Exam *(21 Apr 2026)*
+- **Cisco Networking Academy** – Introduction to Cybersecurity *(20 Apr 2026)*
+- **CENTRI** – Introduction to OSINT *(06 Jul 2026)*
+
+---
+
+### 📈 Learning Journey
+
+```
+2025 ───────► Apr 2026 ───────► Jul 2026 ───────► 2024–2026 ───────► Now
+Graduated     Cisco             OSINT             Built Multiple     Open To Work
+B.Tech CSE    Certifications    Course             Cybersecurity     SOC Analyst
+(Cybersecurity) Completed        Completed          Labs              Opportunities
 ```
 
 ---
 
-# 🛡 Cybersecurity Toolkit
+### 📊 GitHub Stats
 
-<table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiramyadav03&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
-<tr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramyadav03&theme=radical" alt="GitHub Streak"/>
+</p>
 
-<td width="33%">
-
-<h3>SOC</h3>
-
-• Splunk
-
-• Wazuh
-
-• Microsoft Sentinel (Learning)
-
-• QRadar (Learning)
-
-</td>
-
-<td width="33%">
-
-<h3>Network Security</h3>
-
-• Wireshark
-
-• Nmap
-
-• TCP/IP
-
-• Windows Event Logs
-
-</td>
-
-<td width="33%">
-
-<h3>Threat Intelligence</h3>
-
-• VirusTotal
-
-• MXToolBox
-
-• MITRE ATT&CK
-
-• OSINT
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<h3>Vulnerability Assessment</h3>
-
-• Nessus
-
-• OpenVAS
-
-• CVSS
-
-• Risk Analysis
-
-</td>
-
-<td>
-
-<h3>Penetration Testing</h3>
-
-• Kali Linux
-
-• Metasploit
-
-• Burp Suite
-
-• John the Ripper
-
-</td>
-
-<td>
-
-<h3>Operating Systems</h3>
-
-• Windows
-
-• Ubuntu
-
-• Kali Linux
-
-• Linux CLI
-
-</td>
-
-</tr>
-
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramyadav03&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3>📧 Phishing Email Analysis Lab</h3>
-
-SOC-style phishing investigation using:
-
-• Email Header Analysis
-
-• SPF / DKIM / DMARC
-
-• VirusTotal
-
-• IOC Extraction
-
-<a href="https://github.com/abhiramyadav03/phishing-email-analysis-lab">
-
-View Repository →
-
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>🦈 Wireshark Network Analysis</h3>
-
-Captured and analyzed
-
-• DNS
-
-• TCP
-
-• TLS
-
-• ICMP
-
-• ARP
-
-• QUIC
-
-<a href="https://github.com/abhiramyadav03/Task-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark">
-
-View Repository →
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<h3>🛡 Firewall Configuration Lab</h3>
-
-Configured
-
-• Windows Defender Firewall
-
-• Ubuntu UFW
-
-• Rule Validation
-
-• Port Blocking
-
-<a href="https://github.com/abhiramyadav03/Task-4-Setup-and-Use-a-Firewall">
-
-View Repository →
-
-</a>
-
-</td>
-
-<td>
-
-<h3>🔎 Vulnerability Assessment</h3>
-
-Performed
-
-• Nessus Scanning
-
-• CVSS Analysis
-
-• Risk Assessment
-
-• Remediation
-
-<a href="https://github.com/abhiramyadav03/Task-3-Vulnerability-Assessment">
-
-View Repository →
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<h3>🤖 AI Phishing URL Detection</h3>
-
-Machine Learning based
-
-• Random Forest
-
-• URL Classification
-
-• Flask
-
-• Feature Engineering
-
-<a href="https://github.com/abhiramyadav03/phishing-detector">
-
-View Repository →
-
-</a>
-
-</td>
-
-<td>
-
-<h3>🔍 Network Reconnaissance</h3>
-
-Hands-on
-
-• Nmap
-
-• Enumeration
-
-• Port Discovery
-
-• Service Detection
-
-<a href="https://github.com/abhiramyadav03/cyber-security-Task-1">
-
-View Repository →
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🏆 Certifications
-
-```text
-Cisco Networking Academy
-
-✓ Ethical Hacker
-
-✓ Junior Cybersecurity Analyst
-
-✓ Introduction to Cybersecurity
-
-CENTRI
-
-✓ Introduction to OSINT
-```
-
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhiramyadav03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=abhiramyadav03&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiramyadav03&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Learning Journey
-
-```text
-2025
-│
-├── 🎓 Graduated (B.Tech CSE - Cybersecurity)
-│
-├── 🛡 Cisco Introduction to Cybersecurity
-│
-├── ⚔ Cisco Ethical Hacker
-│
-├── 🔵 Cisco Junior Cybersecurity Analyst
-│
-├── 🌍 Introduction to OSINT
-│
-├── 🔍 Vulnerability Assessment Labs
-│
-├── 🦈 Wireshark Packet Analysis
-│
-├── 📧 Phishing Email Investigation
-│
-├── 🛡 Firewall Configuration
-│
-└── 🚀 Building Practical SOC Portfolio
-```
-
----
-
-# 💼 Areas of Interest
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Blue Team
-
-- Security Operations Center (SOC)
-- Incident Response
-- Threat Hunting
-- Log Analysis
-- SIEM Monitoring
-- Detection Engineering
-
-</td>
-
-<td width="50%">
-
-### Security
-
-- Network Security
-- Vulnerability Assessment
-- Threat Intelligence
-- Malware Analysis
-- Digital Forensics
-- Security Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📚 Currently Learning
-
-```text
-✓ Microsoft Sentinel
-
-✓ Splunk Enterprise
-
-✓ Wazuh SIEM
-
-✓ Sigma Rules
-
-✓ YARA Rules
-
-✓ Detection Engineering
-
-✓ Malware Analysis
-
-✓ Cloud Security Fundamentals
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/abhiramyadav03">
-<img src="https://img.shields.io/badge/GitHub-abhiramyadav03-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rapothulaabhiram/">
-<img src="https://img.shields.io/badge/LinkedIn-Abhiram%20Rapothula-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://tryhackme.com/p/rapothula1907">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💬 Philosophy
-
-> **"Security is not about eliminating every threat. It's about continuously improving our ability to detect, respond, and recover."**
-
----
-
-<div align="center">
-
-## ⚡ Open to SOC Analyst • Cybersecurity Analyst • Blue Team Opportunities
-
-*"Learning every day. Building practical security solutions. Ready to contribute."*
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thank you for visiting my GitHub Profile!
-
-If you find my projects helpful, consider giving them a ⭐ and connecting with me.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,7C3AED,4F46E5&height=120&section=footer"/>
-
-</div>
+<p align="center">
+<em>"Security is not a product, but a process."</em> — Bruce Schneier
+</p>
+
+<p align="center">
+Thanks for visiting my profile! Let's connect and build a more secure digital world together. 🔒
+</p>
